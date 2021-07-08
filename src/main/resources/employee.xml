@@ -53,7 +53,7 @@ https://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="employee1" class="com.cognizant.springlearn.model.Employee">
 
         <property name="id" value="1" />
-        <property name="name" value="John" />
+        <property name="name" value="Johny" />
         <property name="salary" value="100000" />
         <property name="permanent" value="false" />
         <property name="department" ref="department1"/>
